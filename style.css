@@ -1,0 +1,40 @@
+
+
+table
+{
+  border-spacing: 7px;
+
+}
+
+.magistral {
+  background-color: yellow;
+}
+.conf {
+  background-color: red;
+}
+.taller
+{
+  background-color:
+}
+.tutorial
+{
+  background-color: #91CDFF
+}
+.general
+{
+  #9791CD
+}
+
+th
+{
+  background-color: blue;
+}
+
+td,
+th
+{
+  border: 1px solid black
+  border-radius: 5px;
+}
+
+.
