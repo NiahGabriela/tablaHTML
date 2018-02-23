@@ -1,34 +1,110 @@
 td,
-th{
+th
+{
   border-radius: 5px;
   text-align: center;
 }
 
-th{
-  background-color: lightblue;
+th
+{
+  border-radius: 5px;
+  background-color: #B7C2CF;
 }
-table{
+
+table
+{
   border-spacing: 5px;
 }
-.magistral{
-  background-color: #bfbfbf;
+
+td span
+{
+  display: block;
 }
-.conf{
-  background-color: #e5e6ff;
+
+thead th
+{
+    text-transform: uppercase;
 }
-.ponente{
+
+.hora
+{
+    width: 5%;
+}
+
+.salon1,
+.salon2,
+.salon3,
+.salon4,
+.salon5,
+{
+    width: 18%;
+}
+
+table
+{
+  table-layout: fixed;
+  width: 100%;
 
 }
-.general{
-  background-color: #9798ca;
+
+.ponente{
+  font-style: italic;
 }
-.taller{
-  background-color: #9699fe;
+
+.tipo
+{
+    font-size: .8em;
+    font-size: italic;
 }
-.informal{
-  background-color: #cacbff;
-}
-table caption{
+
+table caption
+{
   font-weight: bolder;
-  font-size: .8em;
+  font-size: 1.8em;
+}
+
+h3
+{
+  font-size: 1em;
+  margin: 0;
+}
+
+#laComida
+{
+    text-transform: uppercase;
+}
+
+.magistral{
+  background-color: #BEBEBE;
+}
+
+.tutorial
+{
+  background-color: #9BCCFE;
+}
+
+.evaluacion
+{
+  background-color: #D0CDFF;
+}
+
+.empresa
+{
+    letter-spacing: -1px;
+
+}
+
+.conf
+{
+  background-color: #E8E5FF;
+}
+
+.general
+{
+  background-color: #9C99D2;
+}
+
+.taller
+{
+  background-color: #9A99FF;
 }
